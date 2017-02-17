@@ -109,21 +109,7 @@ def getWithCaching(query):
 		print ("")
 
 three_tweets = getWithCaching("umsi")
-# for t in three_tweets:
-# 	print("TWEET TEXT:", t) 
-# 	print ("created_at")
-# 	print("\n")
 
-
-
-
-#print(get_tweets_from_user("umsi"))
-
-
-
-#for x in range(3):
-	#x= design_tweets("umsi")
-	#y= getWithCaching("umsi")
 
 
 
