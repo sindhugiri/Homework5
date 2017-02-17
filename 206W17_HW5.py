@@ -115,16 +115,7 @@ three_tweets = getWithCaching("umsi")
 # 	print("\n")
 
 
-#def get_tweets_from_user(username):
-	#twitter_results = api.user_timeline(username)
-	#first= twitter_results[0]
-	#firsttext=first["text"]
-	#return firsttext 
-	#designlist= []
-	#for x in results:
-		#designlist.append(x["text"])
-	#return designlist
-	
+
 
 #print(get_tweets_from_user("umsi"))
 
